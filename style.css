@@ -373,6 +373,7 @@ iframe {
 
 .product-image:hover {
   outline: none;
+  transition: .25s;
 }
 
 .product__hero {
