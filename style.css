@@ -204,6 +204,12 @@ nav {
   margin-top: -50px;
 }
 
+@media (max-height: 550px) {
+  .hero__ttl {
+    margin-top: 0;
+  }
+}
+
 .heading {
   color: black;
   font-size: 18px;
